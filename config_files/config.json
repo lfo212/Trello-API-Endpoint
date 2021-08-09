@@ -1,0 +1,11 @@
+{
+    "api_url": "https://api.trello.com/1",
+    "key": "",
+    "token": "",
+    "labels_list": [
+        "Bug",
+        "Maintenance",
+        "Research",
+        "Test"
+    ]
+}
